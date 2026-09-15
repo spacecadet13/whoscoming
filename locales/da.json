@@ -10,5 +10,14 @@
     "first-name": "Fornavn",
     "last-name": "Efternavn",
     "already-logged-in": "Du er allerede logget ind som"
+  },
+  "user-menu": {
+    "profile": "Profil",
+    "log-out": "Log ud"
+  },
+  "home-menu": {
+    "your-events": "Dine events",
+    "shared": "Delte",
+    "archived": "Arkiveret"
   }
 }
