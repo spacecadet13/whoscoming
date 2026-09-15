@@ -10,5 +10,14 @@
     "first-name": "First name",
     "last-name": "Last name",
     "already-logged-in": "You're already logged in as"
+  },
+  "user-menu": {
+    "profile": "Profile",
+    "log-out": "Log out"
+  },
+  "home-menu": {
+    "your-events": "Your events",
+    "shared": "Shared",
+    "archived": "Archived"
   }
 }
