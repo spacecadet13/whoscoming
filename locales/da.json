@@ -15,9 +15,16 @@
     "profile": "Profil",
     "log-out": "Log ud"
   },
-  "home-menu": {
+  "profile-dialog": {
+    "headline": "Profile",
+    "first-name-placeholder": "Indtast dit fornavn...",
+    "last-name-placeholder": "Indtast dit efternavn...",
+    "delete-account": "Slet konto"
+  },
+  "home-page": {
     "your-events": "Dine events",
     "shared": "Delte",
-    "archived": "Arkiveret"
+    "archived": "Arkiveret",
+    "delete-account": "Slet konto"
   }
 }
