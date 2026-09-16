@@ -15,9 +15,16 @@
     "profile": "Profile",
     "log-out": "Log out"
   },
-  "home-menu": {
+  "profile-dialog": {
+    "headline": "Profile",
+    "first-name-placeholder": "Enter your first name...",
+    "last-name-placeholder": "Enter your last name...",
+    "delete-account": "Delete account"
+  },
+  "home-page": {
     "your-events": "Your events",
     "shared": "Shared",
-    "archived": "Archived"
+    "archived": "Archived",
+    "new-event": "New event"
   }
 }
