@@ -35,7 +35,13 @@
       "copy": "Kopier",
       "admins": "Administratorer",
       "archive": "Arkiver",
-      "delete-event": "Slet event"
-    }
+      "unarhcive": "Flyt tilbage",
+      "archive-menu": {
+        "archive-text": "Arkiverede events flyttes til en separat side, så de ikke fylder på hovedsiden.",
+        "button-archive": "Arkiver",
+        "button-unarchive": "Flyt tilbage"
+      }
+      "delete-event": "Slet event",
+    },
   }
 }
