@@ -32,16 +32,43 @@
     "go-to-event": "Go to event",
     "edit-menu": {
       "edit": "Edit",
-      "copy": "Copy",
+      "duplicate": "Duplicate",
+      "duplicate-dialog": {
+        "headline": "Duplicate",
+        "text-part1": "Create a new event based on your existing event",
+        "text-part2": "All settings will remain the same and you can choose to also copy over the list of people from your original event.",
+        "checkbox-copy-all-people": "Copy over all people on the list",
+        "checkbox-attending-status": "Keep their attending status",
+        "button-duplicate": "Duplicate",
+        "button-cancel": "Cancel"
+      },
       "admins": "Admins",
+      "admins-dialog": {
+        "headline": "Admins",
+        "text": "Admins you add here can edit all fields on your event, just like you can. Only you can archive and delete the event.\n\nEnter the email address of an existing user.",
+        "input-placeholder": "Email address...",
+        "button-add-admin": "Add admin",
+        "toast-admin-added": "was added as an admin",
+        "toast-admin-removed": "was removed  as an admin"
+      },
       "archive": "Archive",
-      "unarhcive": "Unarchive",
+      "unarchive": "Unarchive",
       "archive-menu": {
         "archive-text": "Archived events are moved to a separate page to unclutter your main view.",
         "button-archive": "Archive",
-        "button-unarchive": "Unarchive"
+        "button-unarchive": "Unarchive",
+        "toast-archive": "The event was archived",
+        "toast-unarchive": "The event was moved back"
       },
-      "delete-event": "Delete event"
+      "delete-event": "Delete event",
+      "delete-dialog": {
+        "headline": "Delete event",
+        "text-part1": "Are you sure you want to delete the event",
+        "text-part2": "The event and all of its attendees will be gone forever!",
+        "button-cancel": "Cancel",
+        "button-delete": "Delete event",
+        "toast-event-deleted": "The event was deleted"
+      }
     }
   }
 }
