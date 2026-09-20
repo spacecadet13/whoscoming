@@ -35,6 +35,12 @@
       "copy": "Copy",
       "admins": "Admins",
       "archive": "Archive",
+      "unarhcive": "Unarchive",
+      "archive-menu": {
+        "archive-text": "Archived events are moved to a separate page to unclutter your main view.",
+        "button-archive": "Arkiver",
+        "button-unarchive": "Unarchive"
+      }
       "delete-event": "Delete event"
     }
   }
