@@ -13,6 +13,7 @@
   },
   "user-menu": {
     "profile": "Profil",
+    "admin": "Admin",
     "log-out": "Log ud"
   },
   "profile-dialog": {
@@ -27,6 +28,8 @@
     "shared": "Delte",
     "archived": "Arkiveret",
     "new-event": "Ny event",
+    "copy-url": "Kopier URL",
+    "go-to-event": "Gå til event",
     "edit-menu": {
       "edit": "Rediger",
       "copy": "Kopier",
