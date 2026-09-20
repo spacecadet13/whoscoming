@@ -13,6 +13,7 @@
   },
   "user-menu": {
     "profile": "Profile",
+    "admin": "Admin",
     "log-out": "Log out"
   },
   "profile-dialog": {
@@ -27,6 +28,8 @@
     "shared": "Shared",
     "archived": "Archived",
     "new-event": "New event",
+    "copy-url": "Copy URL",
+    "go-to-event": "Go to event",
     "edit-menu": {
       "edit": "Edit",
       "copy": "Copy",
