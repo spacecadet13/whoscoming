@@ -22,9 +22,17 @@
     "delete-account": "Slet konto"
   },
   "home-page": {
+    "hi": "Hej",
     "your-events": "Dine events",
     "shared": "Delte",
     "archived": "Arkiveret",
-    "new-event": "Ny event"
+    "new-event": "Ny event",
+    "edit-menu": {
+      "edit": "Rediger",
+      "copy": "Kopier",
+      "admins": "Administratorer",
+      "archive": "Arkiver",
+      "delete-event": "Slet event"
+    }
   }
 }
