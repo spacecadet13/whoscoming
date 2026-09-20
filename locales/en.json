@@ -22,9 +22,17 @@
     "delete-account": "Delete account"
   },
   "home-page": {
+    "hi": "Hi",
     "your-events": "Your events",
     "shared": "Shared",
     "archived": "Archived",
-    "new-event": "New event"
+    "new-event": "New event",
+    "edit-menu": {
+      "edit": "Edit",
+      "copy": "Copy",
+      "admins": "Admins",
+      "archive": "Archive",
+      "delete-event": "Delete event"
+    }
   }
 }
