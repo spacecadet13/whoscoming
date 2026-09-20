@@ -32,16 +32,44 @@
     "go-to-event": "Gå til event",
     "edit-menu": {
       "edit": "Rediger",
-      "copy": "Kopier",
+      "duplicate": "Kopier",
+      "duplicate-dialog": {
+        "headline": "Kopier event",
+        "text-part1": "Opret en ny event baseret på din event",
+        "text-part2": "Alle indstillinger forbliver de samme, og du kan vælge om listen af personer fra din originale event skal kopieres med over.",
+        "checkbox-copy-all-people": "Kopier alle folk på listen med over",
+        "checkbox-attending-status": "Husk deres tilmeldingsstatus",
+        "button-duplicate": "Kopier",
+        "button-cancel": "Fortryd"
+      },
       "admins": "Administratorer",
+      "admins-dialog": {
+        "headline": "Administratorer",
+        "text": "Administratorer du tilføjer her kan redigere din event på lige fod med dig. Arkivering og sletning af eventen kan dog kun gøres af dig.\n\nTilføj en emailadresse på en person, der allerede har en konto.",
+        "input-placeholder": "Emailadresse...",
+        "button-add-admin": "Tilføj",
+        "toast-admin-added": "blev tilføjet som administrator",
+        "toast-admin-removed": "blev fjernet som administrator",
+        "toast-user-doesnt-exist": "Emailadressen du har indtastet, har ikke en konto på Whoscoming.app"
+      },
       "archive": "Arkiver",
-      "unarhcive": "Flyt tilbage",
+      "unarchive": "Flyt tilbage",
       "archive-menu": {
         "archive-text": "Arkiverede events flyttes til en separat side, så de ikke fylder på hovedsiden.",
         "button-archive": "Arkiver",
-        "button-unarchive": "Flyt tilbage"
+        "button-unarchive": "Flyt tilbage",
+        "toast-archive": "Eventen blev arkiveret",
+        "toast-unarchive": "Eventen blev flyttet tilbage"
       },
-      "delete-event": "Slet event"
+      "delete-event": "Slet event",
+      "delete-dialog": {
+        "headline": "Slet event",
+        "text-part1": "Er du sikker på at du vil slette eventen",
+        "text-part2": "Eventen og alle dets tilmeldinger forsvinder for evigt!",
+        "button-cancel": "Fortryd",
+        "button-delete": "Slet event",
+        "toast-event-deleted": "Eventen blev slettet"
+      }
     }
   }
 }
