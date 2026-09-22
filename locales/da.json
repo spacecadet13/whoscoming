@@ -48,6 +48,8 @@
         "text": "Administratorer du tilføjer her kan redigere din event på lige fod med dig. Arkivering og sletning af eventen kan dog kun gøres af dig.\n\nTilføj en emailadresse på en person, der allerede har en konto.",
         "input-placeholder": "Emailadresse...",
         "button-add-admin": "Tilføj",
+        "remove-confirm-text": "Fjern som administrator?",
+        "button-confirm-delete": "Ja",
         "toast-admin-added": "blev tilføjet som administrator",
         "toast-admin-removed": "blev fjernet som administrator",
         "toast-user-doesnt-exist": "Emailadressen du har indtastet, har ikke en konto på Whoscoming.app"
