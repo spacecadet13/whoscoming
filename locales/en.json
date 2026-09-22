@@ -47,7 +47,7 @@
         "headline": "Admins",
         "text": "Admins you add here can edit all fields on your event, just like you can. Only you can archive and delete the event.\n\nEnter the email address of an existing user.",
         "input-placeholder": "Email address...",
-        "button-add-admin": "Add admin",
+        "button-add-admin": "Add",
         "toast-admin-added": "was added as an admin",
         "toast-admin-removed": "was removed  as an admin",
         "toast-user-doesnt-exist": "The email address you entered does not have an account on Whoscoming.app"
