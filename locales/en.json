@@ -40,7 +40,9 @@
         "checkbox-copy-all-people": "Copy over all people on the list",
         "checkbox-attending-status": "Keep their attending status",
         "button-duplicate": "Duplicate",
-        "button-cancel": "Cancel"
+        "button-cancel": "Cancel",
+        "just-created-headline": "Your new event is here!",
+        "just-created-text": "Hover and click the 'Copy URL' button to get the link to send to your invitees."
       },
       "admins": "Admins",
       "admins-dialog": {
