@@ -42,7 +42,8 @@
         "button-duplicate": "Duplicate",
         "button-cancel": "Cancel",
         "just-created-headline": "Your new event is here!",
-        "just-created-text": "Hover and click the 'Copy URL' button to get the link to send to your invitees."
+        "just-created-text": "Hover and click the 'Copy URL' button to get the link to send to your invitees.",
+        "just-created-text-mobile": "Press the 'Copy URL' button to get the link to send to your invitees."
       },
       "admins": "Admins",
       "admins-dialog": {
