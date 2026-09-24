@@ -40,7 +40,9 @@
         "checkbox-copy-all-people": "Kopier alle folk på listen med over",
         "checkbox-attending-status": "Husk deres tilmeldingsstatus",
         "button-duplicate": "Kopier",
-        "button-cancel": "Fortryd"
+        "button-cancel": "Fortryd",
+        "just-created-headline": "Din nye event er her!",
+        "just-created-text": "Hold musen hen over og klik på 'Kopier URL' for at få linket til dem du vil invitere."
       },
       "admins": "Administratorer",
       "admins-dialog": {
