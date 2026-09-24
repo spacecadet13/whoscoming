@@ -42,7 +42,8 @@
         "button-duplicate": "Kopier",
         "button-cancel": "Fortryd",
         "just-created-headline": "Din nye event er her!",
-        "just-created-text": "Hold musen hen over og klik på 'Kopier URL' for at få linket til dem du vil invitere."
+        "just-created-text": "Hold musen hen over og klik på 'Kopier URL' for at få linket til dem du vil invitere.",
+        "just-created-text-mobile": "Tryk på 'Kopier URL' for at få linket til dem du vil invitere."
       },
       "admins": "Administratorer",
       "admins-dialog": {
