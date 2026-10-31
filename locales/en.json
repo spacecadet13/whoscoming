@@ -125,7 +125,8 @@
 			"delete-option": "Delete option",
 			"delete-option-confirm": "Delete option?",
 			"custom-option-emoji-text-placeholder": "Select emoji and write a text...",
-			"custom-option-text-placeholder": "Enter text..."
+			"custom-option-text-placeholder": "Enter text...",
+			"confirm-yes": "Yes"
 		},
 		"design": {
 			"tab-label": "Design",
@@ -143,6 +144,7 @@
 			"allow-avatars-label": "Allow avatars",
 			"avatars-smileys": "Smileys",
 			"avatars-animals": "Animals",
+			"avatars-footballers": "Footballers",
 			"section-confetti": "Confetti",
 			"confetti-description": "Add good vibes to your event! Delight your attendees with the standard, colorful confetti or design your own.",
 			"confetti-frequency-label": "Confetti frequency",
