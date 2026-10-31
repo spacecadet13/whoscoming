@@ -13,6 +13,9 @@
 	},
 	"user-menu": {
 		"profile": "Profile",
+		"edit-event": "Edit event",
+		"language": "Language",
+		"dark-light-mode": "Dark/Light mode",
 		"admin": "Admin",
 		"log-out": "Log out"
 	},
@@ -28,7 +31,9 @@
 		"shared": "Shared",
 		"archived": "Archived",
 		"new-event": "New event",
+		"no-location": "no location",
 		"copy-url": "Copy URL",
+		"toast-url-copied": "Event URL copied to clipboard",
 		"go-to-event": "Go to event",
 		"edit-menu": {
 			"edit": "Edit",
