@@ -127,7 +127,8 @@
 			"delete-option": "Slet valgmulighed",
 			"delete-option-confirm": "Slet valgmulighed?",
 			"custom-option-emoji-text-placeholder": "Vælg emoji og skriv en tekst...",
-			"custom-option-text-placeholder": "Indtast tekst..."
+			"custom-option-text-placeholder": "Indtast tekst...",
+			"confirm-yes": "Ja"
 		},
 		"design": {
 			"tab-label": "Design",
@@ -145,6 +146,7 @@
 			"allow-avatars-label": "Tillad avatarer",
 			"avatars-smileys": "Smileys",
 			"avatars-animals": "Dyr",
+			"avatars-footballers": "Fodboldspillere",
 			"section-confetti": "Konfetti",
 			"confetti-description": "Giv dit event god stemning! Glæd dine deltagere med den klassiske, farverige konfetti, eller design din egen.",
 			"confetti-frequency-label": "Konfettihyppighed",
