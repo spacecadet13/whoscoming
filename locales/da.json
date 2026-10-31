@@ -1,80 +1,179 @@
 {
-  "language": {
-    "english": "Engelsk",
-    "danish": "Dansk"
-  },
-  "signup": {
-    "log-in": "Log ind",
-    "log-out": "Log ud",
-    "sign-up": "Opret bruger",
-    "first-name": "Fornavn",
-    "last-name": "Efternavn",
-    "already-logged-in": "Du er allerede logget ind som"
-  },
-  "user-menu": {
-    "profile": "Profil",
-    "admin": "Admin",
-    "log-out": "Log ud"
-  },
-  "profile-dialog": {
-    "headline": "Profil",
-    "first-name-placeholder": "Indtast dit fornavn...",
-    "last-name-placeholder": "Indtast dit efternavn...",
-    "delete-account": "Slet konto"
-  },
-  "home-page": {
-    "hi": "Hej",
-    "your-events": "Dine events",
-    "shared": "Delte",
-    "archived": "Arkiveret",
-    "new-event": "Ny event",
-    "copy-url": "Kopier URL",
-    "go-to-event": "Gå til event",
-    "edit-menu": {
-      "edit": "Rediger",
-      "duplicate": "Kopier",
-      "duplicate-dialog": {
-        "headline": "Kopier event",
-        "text-part1": "Opret en ny event baseret på din event",
-        "text-part2": "Alle indstillinger forbliver de samme, og du kan vælge om listen af personer fra din originale event skal kopieres med over.",
-        "checkbox-copy-all-people": "Kopier alle folk på listen med over",
-        "checkbox-attending-status": "Husk deres tilmeldingsstatus",
-        "button-duplicate": "Kopier",
-        "button-cancel": "Fortryd",
-        "just-created-headline": "Din nye event er her!",
-        "just-created-text": "Hold musen hen over og klik på 'Kopier URL' for at få linket til dem du vil invitere.",
-        "just-created-text-mobile": "Tryk på 'Kopier URL' for at få linket til dem du vil invitere."
-      },
-      "admins": "Administratorer",
-      "admins-dialog": {
-        "headline": "Administratorer",
-        "text": "Administratorer du tilføjer her kan redigere din event på lige fod med dig. Arkivering og sletning af eventen kan dog kun gøres af dig.\n\nTilføj en emailadresse på en person, der allerede har en konto.",
-        "input-placeholder": "Emailadresse...",
-        "button-add-admin": "Tilføj",
-        "remove-confirm-text": "Fjern som administrator?",
-        "button-confirm-delete": "Ja",
-        "toast-admin-added": "blev tilføjet som administrator",
-        "toast-admin-removed": "blev fjernet som administrator",
-        "toast-user-doesnt-exist": "Emailadressen du har indtastet, har ikke en konto på Whoscoming.app"
-      },
-      "archive": "Arkiver",
-      "unarchive": "Flyt tilbage",
-      "archive-menu": {
-        "archive-text": "Arkiverede events flyttes til en separat side, så de ikke fylder på hovedsiden.",
-        "button-archive": "Arkiver",
-        "button-unarchive": "Flyt tilbage",
-        "toast-archive": "Eventen blev arkiveret",
-        "toast-unarchive": "Eventen blev flyttet tilbage"
-      },
-      "delete-event": "Slet event",
-      "delete-dialog": {
-        "headline": "Slet event",
-        "text-part1": "Er du sikker på at du vil slette eventen",
-        "text-part2": "Eventen og alle dets tilmeldinger forsvinder for evigt!",
-        "button-cancel": "Fortryd",
-        "button-delete": "Slet event",
-        "toast-event-deleted": "Eventen blev slettet"
-      }
-    }
-  }
+	"language": {
+		"english": "Engelsk",
+		"danish": "Dansk"
+	},
+	"signup": {
+		"log-in": "Log ind",
+		"log-out": "Log ud",
+		"sign-up": "Opret bruger",
+		"first-name": "Fornavn",
+		"last-name": "Efternavn",
+		"already-logged-in": "Du er allerede logget ind som"
+	},
+	"user-menu": {
+		"profile": "Profil",
+		"admin": "Admin",
+		"log-out": "Log ud"
+	},
+	"profile-dialog": {
+		"headline": "Profil",
+		"first-name-placeholder": "Indtast dit fornavn...",
+		"last-name-placeholder": "Indtast dit efternavn...",
+		"delete-account": "Slet konto"
+	},
+	"home-page": {
+		"hi": "Hej",
+		"your-events": "Dine events",
+		"shared": "Delte",
+		"archived": "Arkiveret",
+		"new-event": "Ny event",
+		"copy-url": "Kopier URL",
+		"go-to-event": "Gå til event",
+		"edit-menu": {
+			"edit": "Rediger",
+			"duplicate": "Kopier",
+			"duplicate-dialog": {
+				"headline": "Kopier event",
+				"text-part1": "Opret en ny event baseret på din event",
+				"text-part2": "Alle indstillinger forbliver de samme, og du kan vælge om listen af personer fra din originale event skal kopieres med over.",
+				"checkbox-copy-all-people": "Kopier alle folk på listen med over",
+				"checkbox-attending-status": "Husk deres tilmeldingsstatus",
+				"button-duplicate": "Kopier",
+				"button-cancel": "Fortryd",
+				"just-created-headline": "Din nye event er her!",
+				"just-created-text": "Hold musen hen over og klik på 'Kopier URL' for at få linket til dem du vil invitere.",
+				"just-created-text-mobile": "Tryk på 'Kopier URL' for at få linket til dem du vil invitere."
+			},
+			"admins": "Administratorer",
+			"admins-dialog": {
+				"headline": "Administratorer",
+				"text": "Administratorer du tilføjer her kan redigere din event på lige fod med dig. Arkivering og sletning af eventen kan dog kun gøres af dig.\n\nTilføj en emailadresse på en person, der allerede har en konto.",
+				"input-placeholder": "Emailadresse...",
+				"button-add-admin": "Tilføj",
+				"remove-confirm-text": "Fjern som administrator?",
+				"button-confirm-delete": "Ja",
+				"toast-admin-added": "blev tilføjet som administrator",
+				"toast-admin-removed": "blev fjernet som administrator",
+				"toast-user-doesnt-exist": "Emailadressen du har indtastet, har ikke en konto på Whoscoming.app"
+			},
+			"archive": "Arkiver",
+			"unarchive": "Flyt tilbage",
+			"archive-menu": {
+				"archive-text": "Arkiverede events flyttes til en separat side, så de ikke fylder på hovedsiden.",
+				"button-archive": "Arkiver",
+				"button-unarchive": "Flyt tilbage",
+				"toast-archive": "Eventen blev arkiveret",
+				"toast-unarchive": "Eventen blev flyttet tilbage"
+			},
+			"delete-event": "Slet event",
+			"delete-dialog": {
+				"headline": "Slet event",
+				"text-part1": "Er du sikker på at du vil slette eventen",
+				"text-part2": "Eventen og alle dets tilmeldinger forsvinder for evigt!",
+				"button-cancel": "Fortryd",
+				"button-delete": "Slet event",
+				"toast-event-deleted": "Eventen blev slettet"
+			}
+		}
+	},
+	"event-builder": {
+		"headline-create": "Event Builder",
+		"headline-edit": "Rediger event",
+		"button-create-event": "Opret event",
+		"button-save-changes": "Gem ændringer",
+		"details": {
+			"tab-label": "Detaljer",
+			"section-info-about-the-event": "Info om eventet",
+			"title-label": "Titel",
+			"title-placeholder": "Giv dit event en titel...",
+			"frequency-label": "Hyppighed",
+			"frequency-one-off": "Enkeltstående",
+			"frequency-one-off-description": "Dit event forbliver online, som det er, indtil du ændrer eller sletter det.",
+			"frequency-weekly": "Ugentlig",
+			"frequency-weekly-description": "Sætter automatisk datoen for det næste event ud fra den ugedag, du vælger. De inviteredes tilmeldingsstatus nulstilles dagen efter eventet.",
+			"date-and-time-label": "Dato og tidspunkt",
+			"date-and-time-placeholder": "Dato...",
+			"weekday-label": "Ugedag",
+			"time-label": "Tidspunkt",
+			"time-placeholder": "Indtast...",
+			"section-optional-fields": "Valgfrie felter",
+			"location-label": "Sted",
+			"location-placeholder": "Hvor finder dit event sted?",
+			"description-label": "Beskrivelse",
+			"description-placeholder": "Fortæl dine inviterede, hvad dit event handler om...",
+			"min-attendees-label": "Min. deltagere",
+			"min-attendees-placeholder": "Indtast antal...",
+			"max-attendees-label": "Maks. deltagere",
+			"max-attendees-placeholder": "Indtast antal...",
+			"section-url-address": "URL-adresse",
+			"url-slug": "vaelg-en-adresse",
+			"url-description": "Dit events URL, som du sender til dine inviterede. Vi forsøger at lave den automatisk ud fra dit events titel, men du kan ændre den til lige, hvad du vil.",
+			"url-slug-taken": "Denne URL-adresse er ikke tilgængelig. Vælg venligst en anden."
+		},
+		"options": {
+			"tab-label": "Valg",
+			"section-edit-menu": "Redigeringsmenuen",
+			"edit-menu-description": "Hver person på listen har en redigeringsmenu, som åbnes ved at trykke på blyantikonet. Du kan tilpasse menuen nedenfor (den er midlertidigt åben i forhåndsvisningen, så du kan se dine ændringer).",
+			"allow-name-editing-label": "Tillad redigering af navne",
+			"allow-comments-label": "Tillad kommentarer",
+			"section-custom-attendee-options": "Valgmuligheder for deltagere",
+			"custom-attendee-options-description": "Tilføj valgmuligheder, hvis du vil have input fra dine deltagere, fx hvilken type mad de foretrækker.",
+			"example-option-vegetarian": "Jeg spiser vegetarisk",
+			"example-option-meat": "Jeg spiser kød",
+			"add-option": "Tilføj valgmulighed",
+			"allow-only-when-attending-label": "Tillad kun ved deltagelse",
+			"show-total-count-label": "Vis samlet antal",
+			"delete-option": "Slet valgmulighed"
+		},
+		"design": {
+			"tab-label": "Design",
+			"section-image": "Billede",
+			"image-description": "Giv dit event et personligt præg med et headerbillede.",
+			"upload-image": "Upload et billede",
+			"upload-image-hint": "Husk, at andre skal indlæse billedet, så prøv at holde filstørrelsen nede.",
+			"image-size-label": "Billedstørrelse (%)",
+			"image-rounding-label": "Billedafrunding",
+			"image-spacing-label": "Billedafstand",
+			"header-color-placeholder": "Headerfarve...",
+			"header-rounding-label": "Headerafrunding",
+			"section-avatars": "Avatarer",
+			"avatars-description": "Giv dit event lidt personlighed ved at lade deltagerne vælge en avatar, der vises ved siden af deres navn.",
+			"allow-avatars-label": "Tillad avatarer",
+			"avatars-smileys": "Smileys",
+			"avatars-animals": "Dyr",
+			"section-confetti": "Konfetti",
+			"confetti-description": "Giv dit event god stemning! Glæd dine deltagere med den klassiske, farverige konfetti, eller design din egen.",
+			"confetti-frequency-label": "Konfettihyppighed",
+			"confetti-frequency-none": "Ingen konfetti",
+			"confetti-frequency-none-description": "Dit event er helt frit for konfetti!",
+			"confetti-frequency-every-attendance": "Ved hver tilmelding",
+			"confetti-frequency-every-attendance-description": "Alle, der tilmelder sig dit event, får et skud konfetti.",
+			"confetti-frequency-minimum-attendance": "Når minimum er nået",
+			"confetti-frequency-minimum-attendance-description": "Den person, der får dit event op på minimumsantallet af deltagere, bliver fejret med et skud konfetti.",
+			"confetti-amount-label": "Konfettimængde",
+			"custom-confetti-description": "Erstat standardkonfettien ved at tilføje dine egne varianter med farver, billeder og emojis.",
+			"test-confetti": "Test konfetti!",
+			"confetti-style-confetti": "Konfetti",
+			"confetti-style-image": "Billede",
+			"confetti-style-emoji": "Emoji",
+			"confetti-image-url-placeholder": "Indsæt billedets URL her...",
+			"confetti-image-info-upload": "Der er i øjeblikket ingen billedupload, så indtil videre skal du selv angive en URL til billedet.",
+			"confetti-image-info-loading": "Konfettien affyres først, når billedet er helt indlæst, så hold billedfilerne så små som muligt.",
+			"confetti-emoji-hint": "Indtast en emoji",
+			"add-confetti-style": "Tilføj variant",
+			"max-confetti-styles-reached": "Ikke flere konfettivarianter til dig!"
+		},
+		"labels": {
+			"tab-label": "Tekster",
+			"event-language-label": "Eventets sprog",
+			"event-language-info": "Vælg det sprog, dine inviterede ser eventet på. Du kan omformulere nogle af teksterne nedenfor.",
+			"section-customize-default-labels": "Tilpas standardtekster",
+			"default-registered-count": "{count} tilmeldte",
+			"default-missing-count": "{count} mangler",
+			"default-enough-attendees": "(når der er nok deltagere)",
+			"default-enough-attendees-info": "Vises i stedet for antallet af manglende deltagere, når minimumsantallet er nået.",
+			"default-sign-up-button": "Tilmeld dig"
+		}
+	}
 }
