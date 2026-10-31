@@ -29,6 +29,7 @@
 		"delete-your-account-text-part1": "Er du sikker på at du vil slette din konto for",
 		"delete-your-account-text-part2": "Dine",
 		"delete-your-account-text-part3": "vil blive slettet og ingen vil længere kunne tilgå dem.\n\nDer er ingen måde at fortryde på!\n\nHvis du stadig vil slette din konto, skal du indtaste 'DELETE ACCOUNT' i feltet nedenfor.",
+		"delete-your-account-text-part4": "Hvis du stadig vil slette din konto, skal du indtaste 'DELETE ACCOUNT' i feltet nedenfor.",
 		"delete-your-account-input-placeholder": "Skriv 'DELETE ACCOUNT' for at bekræfte...",
 		"delete-your-account-button-cancel": "Fortryd",
 		"delete-your-account-button-confirm": "Slet konto"
