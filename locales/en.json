@@ -1,80 +1,177 @@
 {
-  "language": {
-    "english": "English",
-    "danish": "Danish"
-  },
-  "signup": {
-    "log-in": "Log in",
-    "log-out": "Log out",
-    "sign-up": "Sign up",
-    "first-name": "First name",
-    "last-name": "Last name",
-    "already-logged-in": "You're already logged in as"
-  },
-  "user-menu": {
-    "profile": "Profile",
-    "admin": "Admin",
-    "log-out": "Log out"
-  },
-  "profile-dialog": {
-    "headline": "Profile",
-    "first-name-placeholder": "Enter your first name...",
-    "last-name-placeholder": "Enter your last name...",
-    "delete-account": "Delete account"
-  },
-  "home-page": {
-    "hi": "Hi",
-    "your-events": "Your events",
-    "shared": "Shared",
-    "archived": "Archived",
-    "new-event": "New event",
-    "copy-url": "Copy URL",
-    "go-to-event": "Go to event",
-    "edit-menu": {
-      "edit": "Edit",
-      "duplicate": "Duplicate",
-      "duplicate-dialog": {
-        "headline": "Duplicate",
-        "text-part1": "Create a new event based on your existing event",
-        "text-part2": "All settings will remain the same and you can choose to also copy over the list of people from your original event.",
-        "checkbox-copy-all-people": "Copy over all people on the list",
-        "checkbox-attending-status": "Keep their attending status",
-        "button-duplicate": "Duplicate",
-        "button-cancel": "Cancel",
-        "just-created-headline": "Your new event is here!",
-        "just-created-text": "Hover and click the 'Copy URL' button to get the link to send to your invitees.",
-        "just-created-text-mobile": "Press the 'Copy URL' button to get the link to send to your invitees."
-      },
-      "admins": "Admins",
-      "admins-dialog": {
-        "headline": "Admins",
-        "text": "Admins you add here can edit all fields on your event, just like you can. Only you can archive and delete the event.\n\nEnter the email address of an existing user.",
-        "input-placeholder": "Email address...",
-        "button-add-admin": "Add",
-        "remove-confirm-text": "Remove as admin?",
-        "button-confirm-delete": "Yes",
-        "toast-admin-added": "was added as an admin",
-        "toast-admin-removed": "was removed  as an admin",
-        "toast-user-doesnt-exist": "The email address you entered does not have an account on Whoscoming.app"
-      },
-      "archive": "Archive",
-      "unarchive": "Unarchive",
-      "archive-menu": {
-        "archive-text": "Archived events are moved to a separate page to unclutter your main view.",
-        "button-archive": "Archive",
-        "button-unarchive": "Unarchive",
-        "toast-archive": "The event was archived",
-        "toast-unarchive": "The event was moved back"
-      },
-      "delete-event": "Delete event",
-      "delete-dialog": {
-        "headline": "Delete event",
-        "text-part1": "Are you sure you want to delete the event",
-        "text-part2": "The event and all of its attendees will be gone forever!",
-        "button-cancel": "Cancel",
-        "button-delete": "Delete event",
-        "toast-event-deleted": "The event was deleted"
-      }
-    }
-  }
+	"language": {
+		"english": "English",
+		"danish": "Danish"
+	},
+	"signup": {
+		"log-in": "Log in",
+		"log-out": "Log out",
+		"sign-up": "Sign up",
+		"first-name": "First name",
+		"last-name": "Last name",
+		"already-logged-in": "You're already logged in as"
+	},
+	"user-menu": {
+		"profile": "Profile",
+		"admin": "Admin",
+		"log-out": "Log out"
+	},
+	"profile-dialog": {
+		"headline": "Profile",
+		"first-name-placeholder": "Enter your first name...",
+		"last-name-placeholder": "Enter your last name...",
+		"delete-account": "Delete account"
+	},
+	"home-page": {
+		"hi": "Hi",
+		"your-events": "Your events",
+		"shared": "Shared",
+		"archived": "Archived",
+		"new-event": "New event",
+		"copy-url": "Copy URL",
+		"go-to-event": "Go to event",
+		"edit-menu": {
+			"edit": "Edit",
+			"duplicate": "Duplicate",
+			"duplicate-dialog": {
+				"headline": "Duplicate",
+				"text-part1": "Create a new event based on your existing event",
+				"text-part2": "All settings will remain the same and you can choose to also copy over the list of people from your original event.",
+				"checkbox-copy-all-people": "Copy over all people on the list",
+				"checkbox-attending-status": "Keep their attending status",
+				"button-duplicate": "Duplicate",
+				"button-cancel": "Cancel",
+				"just-created-headline": "Your new event is here!",
+				"just-created-text": "Hover and click the 'Copy URL' button to get the link to send to your invitees.",
+				"just-created-text-mobile": "Press the 'Copy URL' button to get the link to send to your invitees."
+			},
+			"admins": "Admins",
+			"admins-dialog": {
+				"headline": "Admins",
+				"text": "Admins you add here can edit all fields on your event, just like you can. Only you can archive and delete the event.\n\nEnter the email address of an existing user.",
+				"input-placeholder": "Email address...",
+				"button-add-admin": "Add",
+				"remove-confirm-text": "Remove as admin?",
+				"button-confirm-delete": "Yes",
+				"toast-admin-added": "was added as an admin",
+				"toast-admin-removed": "was removed  as an admin",
+				"toast-user-doesnt-exist": "The email address you entered does not have an account on Whoscoming.app"
+			},
+			"archive": "Archive",
+			"unarchive": "Unarchive",
+			"archive-menu": {
+				"archive-text": "Archived events are moved to a separate page to unclutter your main view.",
+				"button-archive": "Archive",
+				"button-unarchive": "Unarchive",
+				"toast-archive": "The event was archived",
+				"toast-unarchive": "The event was moved back"
+			},
+			"delete-event": "Delete event",
+			"delete-dialog": {
+				"headline": "Delete event",
+				"text-part1": "Are you sure you want to delete the event",
+				"text-part2": "The event and all of its attendees will be gone forever!",
+				"button-cancel": "Cancel",
+				"button-delete": "Delete event",
+				"toast-event-deleted": "The event was deleted"
+			}
+		}
+	},
+	"event-builder": {
+		"headline-create": "Event Builder",
+		"headline-edit": "Edit event",
+		"button-create-event": "Create event",
+		"button-save-changes": "Save changes",
+		"details": {
+			"tab-label": "Details",
+			"section-info-about-the-event": "Info about the event",
+			"title-label": "Title",
+			"title-placeholder": "Give your event a title...",
+			"frequency-label": "Frequency",
+			"frequency-one-off": "One-off",
+			"frequency-one-off-description": "Your event will stay online as is until you change or delete it.",
+			"frequency-weekly": "Weekly",
+			"frequency-weekly-description": "Automatically sets the date of the next event based on the weekday you set. Invitees' attendance status is reset the day after the event.",
+			"date-and-time-label": "Date and time",
+			"date-and-time-placeholder": "Date...",
+			"weekday-label": "Weekday",
+			"time-label": "Time",
+			"time-placeholder": "Enter...",
+			"section-optional-fields": "Optional fields",
+			"location-label": "Location",
+			"location-placeholder": "Where is your event taking place?",
+			"description-label": "Description",
+			"description-placeholder": "Tell your invitees what your event is about...",
+			"min-attendees-label": "Min. attendees",
+			"min-attendees-placeholder": "Enter number...",
+			"max-attendees-label": "Max attendees",
+			"max-attendees-placeholder": "Enter number...",
+			"section-url-address": "URL address",
+			"url-slug": "choose-an-address",
+			"url-description": "Your event URL to send to your invitees. We try to auto-generate it based on your event title, but you can change it to whatever you like.",
+			"url-slug-taken": "This URL address is not available. Please choose a different one."
+		},
+		"options": {
+			"tab-label": "Options",
+			"section-edit-menu": "The edit menu",
+			"edit-menu-description": "Each person on the list has an edit menu accessed by pressing the pencil icon. You can customize that menu below (temporarily opened in the preview to let you see your changes).",
+			"allow-name-editing-label": "Allow editing of names",
+			"allow-comments-label": "Allow comments",
+			"section-custom-attendee-options": "Custom attendee options",
+			"custom-attendee-options-description": "Add options if you want inputs from your attendees, for example what type of food they prefer.",
+			"add-option": "Add option",
+			"allow-only-when-attending-label": "Allow only when attending",
+			"show-total-count-label": "Show total count",
+			"delete-option": "Delete option"
+		},
+		"design": {
+			"tab-label": "Design",
+			"section-image": "Image",
+			"image-description": "Personalize your event with a header image.",
+			"upload-image": "Upload an image",
+			"upload-image-hint": "Keep in mind that other people will have to load the image, so try to keep the file size down.",
+			"image-size-label": "Image size (%)",
+			"image-rounding-label": "Image rounding",
+			"image-spacing-label": "Image spacing",
+			"header-color-placeholder": "Header color...",
+			"header-rounding-label": "Header rounding",
+			"section-avatars": "Avatars",
+			"avatars-description": "Add some character to your event by allowing the attendees to select an avatar to be displayed next to their name.",
+			"allow-avatars-label": "Allow avatars",
+			"avatars-smileys": "Smileys",
+			"avatars-animals": "Animals",
+			"section-confetti": "Confetti",
+			"confetti-description": "Add good vibes to your event! Delight your attendees with the standard, colorful confetti or design your own.",
+			"confetti-frequency-label": "Confetti frequency",
+			"confetti-frequency-none": "No confetti",
+			"confetti-frequency-none-description": "Your event is completely free from confetti!",
+			"confetti-frequency-every-attendance": "At every attendance",
+			"confetti-frequency-every-attendance-description": "Every person that registers for your event will get a shot of confetti.",
+			"confetti-frequency-minimum-attendance": "At minimum attendance",
+			"confetti-frequency-minimum-attendance-description": "The person that fulfills your minimum attendance will be celebrated with a shot of confetti.",
+			"confetti-amount-label": "Confetti amount",
+			"custom-confetti-description": "Replace the default confetti by adding your own styles with custom colors, images and emojis.",
+			"test-confetti": "Test confetti!",
+			"confetti-style-confetti": "Confetti",
+			"confetti-style-image": "Image",
+			"confetti-style-emoji": "Emoji",
+			"confetti-image-url-placeholder": "Paste image URL here...",
+			"confetti-image-info-upload": "There's currently no image upload, so you'll have to provide your own image URL for now.",
+			"confetti-image-info-loading": "The confetti will only fire once the image has fully loaded, so keep image files as small as possible.",
+			"confetti-emoji-hint": "Enter an emoji",
+			"add-confetti-style": "Add style",
+			"max-confetti-styles-reached": "No more confetti styles for you!"
+		},
+		"labels": {
+			"tab-label": "Labels",
+			"event-language-label": "Event language",
+			"event-language-info": "Choose the language your invitees see the event in. You can rephrase some of the labels below.",
+			"section-customize-default-labels": "Customize default labels",
+			"default-registered-count": "{count} registered",
+			"default-missing-count": "{count} more needed",
+			"default-enough-attendees": "(when there are enough attendees)",
+			"default-enough-attendees-info": "Shown instead of the number of missing attendees once the minimum attendance is reached.",
+			"default-sign-up-button": "Sign up"
+		}
+	}
 }
