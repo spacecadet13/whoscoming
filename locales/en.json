@@ -122,7 +122,10 @@
 			"add-option": "Add option",
 			"allow-only-when-attending-label": "Allow only when attending",
 			"show-total-count-label": "Show total count",
-			"delete-option": "Delete option"
+			"delete-option": "Delete option",
+			"delete-option-confirm": "Delete option?",
+			"custom-option-emoji-text-placeholder": "Select emoji and write a text...",
+			"custom-option-text-placeholder": "Enter text..."
 		},
 		"design": {
 			"tab-label": "Design",
@@ -160,7 +163,13 @@
 			"confetti-image-info-loading": "The confetti will only fire once the image has fully loaded, so keep image files as small as possible.",
 			"confetti-emoji-hint": "Enter an emoji",
 			"add-confetti-style": "Add style",
-			"max-confetti-styles-reached": "No more confetti styles for you!"
+			"max-confetti-styles-reached": "No more confetti styles for you!",
+			"delete-image-confirm": "Delete image?",
+			"delete-confetti-style-confirm": "Delete confetti style?",
+			"confirm-yes": "Yes",
+			"remove-color": "Remove color",
+			"confetti-color-placeholder": "Select...",
+			"confetti-frequency-minimum-attendance-info": "Shoots confetti for the person who fulfills your minimum number of attendees."
 		},
 		"labels": {
 			"tab-label": "Labels",
