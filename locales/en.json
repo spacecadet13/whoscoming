@@ -28,7 +28,8 @@
 		"delete-your-account-headline": "Delete your account?",
 		"delete-your-account-text-part1": "Are you sure you want to delete your account for",
 		"delete-your-account-text-part2": "Your",
-		"delete-your-account-text-part3": "will be deleted and no one will be able to access them anymore.\n\nThere's no way to undo this!\n\nIf you still want to proceed, please confirm by typing 'DELETE ACCOUNT' in the field below.",
+		"delete-your-account-text-part3": "will be deleted and no one will be able to access them anymore.\n\nThere's no way to undo this!",
+		"delete-your-account-text-part4": "If you still want to proceed, please confirm by typing 'DELETE ACCOUNT' in the field below.",
 		"delete-your-account-input-placeholder": "Enter 'DELETE ACCOUNT' to confirm...",
 		"delete-your-account-button-cancel": "Cancel",
 		"delete-your-account-button-confirm": "Delete account"
