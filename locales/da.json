@@ -124,7 +124,10 @@
 			"add-option": "Tilføj valgmulighed",
 			"allow-only-when-attending-label": "Tillad kun ved deltagelse",
 			"show-total-count-label": "Vis samlet antal",
-			"delete-option": "Slet valgmulighed"
+			"delete-option": "Slet valgmulighed",
+			"delete-option-confirm": "Slet valgmulighed?",
+			"custom-option-emoji-text-placeholder": "Vælg emoji og skriv en tekst...",
+			"custom-option-text-placeholder": "Indtast tekst..."
 		},
 		"design": {
 			"tab-label": "Design",
@@ -162,7 +165,14 @@
 			"confetti-image-info-loading": "Konfettien affyres først, når billedet er helt indlæst, så hold billedfilerne så små som muligt.",
 			"confetti-emoji-hint": "Indtast en emoji",
 			"add-confetti-style": "Tilføj variant",
-			"max-confetti-styles-reached": "Ikke flere konfettivarianter til dig!"
+			"max-confetti-styles-reached": "Ikke flere konfettivarianter til dig!",
+			"delete-image-confirm": "Slet billede?",
+					"delete-confetti-style-confirm": "Slet konfettivariant?",
+					"confirm-yes": "Ja",
+					"remove-color": "Fjern farve",
+					
+					"confetti-color-placeholder": "Vælg...",
+					"confetti-frequency-minimum-attendance-info": "Skyder konfetti af for den person, der får dit event op på minimumsantallet af deltagere."
 		},
 		"labels": {
 			"tab-label": "Tekster",
