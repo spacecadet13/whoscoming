@@ -1,0 +1,31 @@
+{
+	"status-labels": {
+		"attendees": "tilmeldte",
+		"to-go": "mangler",
+		"seats-left": "pladser tilbage",
+		"see-you-on": "vi ses på"
+	},
+	"add-person": {
+		"button-label": "Tilføj person",
+		"placeholder": "Skriv dit navn...",
+		"already-exists": "Navnet eksisterer allerede. Vælg venligst et andet."
+	},
+	"edit-dropdown": {
+		"name-placeholder": "Navn...",
+		"comment-placeholder": "Kommentar...",
+		"delete-person": "Slet"
+	},
+	"delete-person": {
+		"dialog-text": "Er du sikker på at du vil slette",
+		"dialog-yes": "Ja",
+		"dialog-no": "Nej",
+		"toast-deleted": "blev slettet!"
+	},
+	"inactive-people": {
+		"footer-link": "inaktive personer er skjult",
+		"dialog-header": "Inaktive personer",
+		"dialog-text": "Personer, der hverken har til- eller frameldt sig i mere end 5 uger, bliver automatisk flyttet til listen over inaktive personer.\n\nEn inaktiv person genaktiveres blot ved at til- eller framelde sig igen.",
+		"matching-person-headline": "Er det dig?",
+		"matching-person-text": "eksisterer allerede, men har været inaktiv i længere tid. Hvis det er dig, kan du tilmelde dig her og genaktivere din profil."
+	}			
+}
