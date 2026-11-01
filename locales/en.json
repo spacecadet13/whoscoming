@@ -198,25 +198,5 @@
 			"default-enough-attendees-info": "Shown instead of the number of missing attendees once the minimum attendance is reached.",
 			"default-sign-up-button": "Sign up"
 		}
-	},
-	"public-event": {
-		"label-attendees": "attendees",
-		"label-to-go": "to go",
-		"label-seats-left": "seats left",
-		"label-see-you-on": "see you on",
-		"add-person-button": "Add person",
-		"add-person-placeholder": "Write your name...",
-		"add-person-already-exists": "That name already is already in use! Please choose another one.",
-		"edit-dropdown-name-placeholder": "Name...",
-		"edit-dropdown-comment-placeholder": "Comment...",
-		"edit-dropdown-delete-person": "Delete",
-		"delete-person-dialog-text": "Are you sure you want to delete",
-		"delete-person-dialog-yes": "Yes",
-		"delete-person-dialog-no": "No",
-		"inactive-footer-link": "inactive people hidden",
-		"inactive-dialog-header": "Inactive people",
-		"inactive-dialog-text": "People that have not registered or unregistered for more than 5 weeks, are automatically moved to the list of inactive people. An inactive person is simply reactivated by registering or unregistering again.",
-		"inactive-matching-person-headline": "Is this you?",
-		"inactive-matching-person-text": "already exists, but has been inactive for a while. If this is you, you can press the switch to reactivate your profile."
-	}			
+	}
 }
