@@ -9,7 +9,9 @@
 		"sign-up": "Sign up",
 		"first-name": "First name",
 		"last-name": "Last name",
-		"already-logged-in": "You're already logged in as"
+		"already-logged-in": "You're already logged in as",
+		"go-to-your-events": "Go to your events",
+		"or": "or"
 	},
 	"user-menu": {
 		"profile": "Profile",
