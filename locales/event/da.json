@@ -27,5 +27,11 @@
 		"dialog-text": "Personer, der hverken har til- eller frameldt sig i mere end 5 uger, bliver automatisk flyttet til listen over inaktive personer.\n\nEn inaktiv person genaktiveres blot ved at til- eller framelde sig igen.",
 		"matching-person-headline": "Er det dig?",
 		"matching-person-text": "eksisterer allerede, men har været inaktiv i længere tid. Hvis det er dig, kan du tilmelde dig her og genaktivere din profil."
-	}			
+	},
+	"event-menu": {
+		"language": "Sprog",
+		"light-mode": "Lyst tema",
+		"dark-mode": "Mørkt tema",
+		"create-your-own": "Opret din egen event"
+	}
 }
