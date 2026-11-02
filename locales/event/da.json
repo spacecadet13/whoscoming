@@ -33,5 +33,9 @@
 		"light-mode": "Lyst tema",
 		"dark-mode": "Mørkt tema",
 		"create-your-own": "Opret din egen event"
+	},
+	"language": {
+		"english": "Engelsk",
+		"danish": "Dansk"
 	}
 }
