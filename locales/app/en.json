@@ -99,6 +99,9 @@
 		"headline-edit": "Edit event",
 		"button-create-event": "Create event",
 		"button-save-changes": "Save changes",
+		"back-to-events-creating": "Go back? Your event is not created yet and will be lost!",
+		"back-to-events-editing": "Go back? Any changes that are not saved will be lost!",
+		"back-to-events-button": "Yes, go back",
 		"details": {
 			"tab-label": "Details",
 			"section-info-about-the-event": "Info about the event",
