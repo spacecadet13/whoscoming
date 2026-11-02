@@ -17,7 +17,8 @@
 		"profile": "Profile",
 		"edit-event": "Edit event",
 		"language": "Language",
-		"dark-light-mode": "Dark/Light mode",
+		"light-mode": "Light mode",
+		"dark-mode": "Dark mode",
 		"create-your-own": "Create your own event",
 		"admin": "Admin",
 		"log-out": "Log out"
