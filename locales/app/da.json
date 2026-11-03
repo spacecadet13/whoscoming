@@ -4,6 +4,10 @@
 		"danish": "Dansk"
 	},
 	"signup": {
+		"sub-header": "Opret simple event-tilmeldinger",
+		"bullet-1": "Inviterede behøver ikke at oprette en profil.",
+		"bullet-2": "Alle kan redigere alle.",
+		"bullet-3": "Opret valg som inviterede kan markere.",
 		"log-in": "Log ind",
 		"log-out": "Log ud",
 		"sign-up": "Opret bruger",
