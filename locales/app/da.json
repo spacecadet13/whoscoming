@@ -70,7 +70,7 @@
 				"button-add-admin": "Tilføj",
 				"handover-headline": "Overdrag",
 				"handover-text_part1": "Overdrag din event til",
-				"handover-text_part2": "Dette betyder at du ikke længere er ejeren af eventen. Du vil forblive administrator på eventen, men",
+				"handover-text_part2": "Dette betyder at du ikke længere er ejeren af eventen.\n\nDu vil forblive administrator på eventen, men",
 				"handover-text_part3": "vil få rettighederne til at fjerne dig, samt at slette eventen.",
 				"handover-button-cancel": "Fortryd",
 				"handover-button-confirm": "Overdrag event",
