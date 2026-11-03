@@ -4,6 +4,10 @@
 		"danish": "Danish"
 	},
 	"signup": {
+		"sub-header": "Create simple event registrations",
+		"bullet-1": "Attendees don't have to sign up.",
+		"bullet-2": "Anyone can edit anyone.",
+		"bullet-3": "Add custom options that attendees can mark.",
 		"log-in": "Log in",
 		"log-out": "Log out",
 		"sign-up": "Sign up",
