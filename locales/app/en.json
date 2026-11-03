@@ -70,7 +70,7 @@
 				"button-add-admin": "Add",
 				"handover-headline": "Handover",
 				"handover-text_part1": "Hand over your event to",
-				"handover-text_part2": "This means that you will no longer be the owner of the event. You will remain as admin on the event, but",
+				"handover-text_part2": "This means that you will no longer be the owner of the event.\n\nYou will remain as admin on the event, but",
 				"handover-text_part3": "will have the rights to remove you, as well as deleting the event.",
 				"handover-button-cancel": "Cancel",
 				"handover-button-confirm": "Hand over event",
