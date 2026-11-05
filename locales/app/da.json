@@ -152,7 +152,7 @@
 		"options": {
 			"tab-label": "Valg",
 			"section-edit-menu": "Redigeringsmenuen",
-			"edit-menu-description": "Hver person på listen har en redigeringsmenu, som åbnes ved at trykke på blyantikonet. Du kan tilpasse menuen nedenfor (den er midlertidigt åben i forhåndsvisningen, så du kan se dine ændringer).",
+			"edit-menu-description": "Hver person på listen har en redigeringsmenu, som åbnes ved at trykke på blyantikonet. Du kan tilpasse menuen nedenfor (den er midlertidigt åben i previewet, så du kan se dine ændringer).",
 			"allow-name-editing-label": "Tillad redigering af navne",
 			"allow-comments-label": "Tillad kommentarer",
 			"section-custom-attendee-options": "Valgmuligheder for deltagere",
