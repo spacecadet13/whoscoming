@@ -48,6 +48,8 @@
 		"your-events": "Dine events",
 		"shared": "Delte",
 		"archived": "Arkiveret",
+		"no-shared-events": "Events som andre brugere deler med dig, vil dukke op her.",
+		"no-archived-events": "Du kan arkivere events, du ikke længere bruger, så de ikke fylder på forsiden.",
 		"create-your-first-event": "Opret din første\nevent her!",
 		"new-event": "Ny event",
 		"no-location": "intet sted",
