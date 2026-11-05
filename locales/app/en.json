@@ -48,6 +48,8 @@
 		"your-events": "Your events",
 		"shared": "Shared",
 		"archived": "Archived",
+		"no-shared-events": "Events shared with you by other users will show up here.",
+		"no-archived-events": "You can archive events you're no longer using, so they don't clutter up the front page.",
 		"create-your-first-event": "Create your first\nevent here!",
 		"new-event": "New event",
 		"no-location": "no location",
