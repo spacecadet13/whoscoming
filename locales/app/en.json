@@ -219,7 +219,7 @@
 		"labels": {
 			"tab-label": "Labels",
 			"event-language-label": "Event language",
-			"event-language-info": "Choose the language your invitees see the event in. You can rephrase some of the labels below.",
+			"event-language-info": "Choose the language your invitees see the event in.",
 			"section-customize-default-labels": "Customize default labels",
 			"default-labels-description": "You can change some of the texts if you prefer a different wording.",
 			"tooltip-to-go-disabled": "Only shown when you event has a minimum number of attendees.",
