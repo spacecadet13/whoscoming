@@ -221,11 +221,10 @@
 			"event-language-label": "Event language",
 			"event-language-info": "Choose the language your invitees see the event in. You can rephrase some of the labels below.",
 			"section-customize-default-labels": "Customize default labels",
-			"default-registered-count": "{count} registered",
-			"default-missing-count": "{count} more needed",
-			"default-enough-attendees": "(when there are enough attendees)",
-			"default-enough-attendees-info": "Shown instead of the number of missing attendees once the minimum attendance is reached.",
-			"default-sign-up-button": "Sign up"
+			"default-labels-description": "You can change some of the texts if you prefer a different wording.",
+			"tooltip-to-go-disabled": "Only shown when you event has a minimum number of attendees.",
+			"tooltip-seats-left-disabled": "Only shown when you event has a maximum number of attendees.",
+			"tooltip-see-you-on-disabled": "Only shown when your event is of the type 'Weekly' and has a minimum number of attendees."
 		}
 	}
 }
