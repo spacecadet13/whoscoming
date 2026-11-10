@@ -219,9 +219,9 @@
 		"labels": {
 			"tab-label": "Tekster",
 			"event-language-label": "Eventens sprog",
-			"event-language-info": "Vælg det sprog, dine inviterede ser eventen på. Du kan omformulere nogle af teksterne nedenfor.",
+			"event-language-info": "Vælg det sprog, dine inviterede ser eventen på.",
 			"section-customize-default-labels": "Tilpasning af default tekster",
-			"default-labels-description": "Her kan du omformulere nogle af teksterne hvis du ønsker en anden ordlyd.",
+			"default-labels-description": "Du omformulere nogle af teksterne hvis du ønsker en anden ordlyd.",
 			"tooltip-to-go-disabled": "Vises kun når din event har et minimum antal deltagere.",
 			"tooltip-seats-left-disabled": "Vises kun når din event har et maksimum antal deltagere.",
 			"tooltip-see-you-on-disabled": "Vises kun når din event er af typen 'Ugentlig' og har et minimum antal deltagere."
