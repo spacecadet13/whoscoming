@@ -22,6 +22,7 @@
 	"user-menu": {
 		"profile": "Profile",
 		"edit-event": "Edit event",
+		"event-history": "Tidligere events",
 		"language": "Language",
 		"light-mode": "Light mode",
 		"dark-mode": "Dark mode",
