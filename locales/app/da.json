@@ -221,6 +221,8 @@
 			"tab-label": "Tekster",
 			"event-language-label": "Eventens sprog",
 			"event-language-info": "Vælg det sprog, dine inviterede ser eventen på.",
+			"invitees-can-change-language": "Inviterede kan ændre eventens sprog",
+			"invitees-can-change-language-tooltip": "Giv inviterede mulighed for at skifte sprog via menuen i øverst højre hjørne.\n\nBemærk at eventens titel, som du har indtastet, forbliver på det sprog du har skrevet den på. Hvis du har indtastet tekster nedenfor, forbliver disse også som indtastet, uanset sprog.",
 			"section-customize-default-labels": "Tilpasning af default tekster",
 			"default-labels-description": "Du kan omformulere nogle af teksterne hvis du ønsker en anden ordlyd.",
 			"tooltip-to-go-disabled": "Vises kun når din event har et minimum antal deltagere.",
