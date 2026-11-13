@@ -221,6 +221,8 @@
 			"tab-label": "Labels",
 			"event-language-label": "Event language",
 			"event-language-info": "Choose the language your invitees see the event in.",
+			"invitees-can-change-language": "Invitees can change event language",
+			"invitees-can-change-language-tooltip": "Allow invitees to change the language in the menu in the top right corner.\n\nPlease note that the event title you've entered, will still display in the language you've entered it in. If you've entered any texts below, these will also remain as entered, regardless of selected language.",
 			"section-customize-default-labels": "Customize default labels",
 			"default-labels-description": "You can change some of the texts if you prefer a different wording.",
 			"tooltip-to-go-disabled": "Only shown when you event has a minimum number of attendees.",
