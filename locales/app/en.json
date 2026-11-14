@@ -17,7 +17,25 @@
 		"last-name": "Last name",
 		"already-logged-in": "You're already logged in as",
 		"go-to-your-events": "Go to your events",
-		"or": "or"
+		"or": "or",
+		"forgot-password": {
+			"forgot-password-link": "Forgot password",
+			"dialog-headline": "Reset password",
+			"dialog-text": "Enter your email address and we will send you a reset link.",
+			"dialog-input-placeholder": "Enter your email address...",
+			"dialog-submit-button": "Reset password",
+			"toast-cant-send-reset-email": "Could not send the reset email. Please try again later.",
+			"toast-reset-email-sent": "Email with reset link is on its way!"
+		}
+	},
+	"reset-password": {
+		"headline": "Choose a new password",
+		"text-before": "Enter the new password you want to use for your account. It must be at least 6 characters.",
+		"text-after": "Your password has been updated. You can now log in with your new password.",
+		"toast-error": "Could not update your password. The reset link may have expired – please request a new one.",
+		"input-placeholder": "New password...",
+		"submit-button": "Save new password",
+		"link": "Go to log in"
 	},
 	"user-menu": {
 		"profile": "Profile",
