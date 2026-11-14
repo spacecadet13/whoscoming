@@ -17,7 +17,25 @@
 		"last-name": "Efternavn",
 		"already-logged-in": "Du er allerede logget ind som",
 		"go-to-your-events": "Gå til dine events",
-		"or": "eller"
+		"or": "eller",
+		"forgot-password": {
+			"forgot-password-link": "Glemt password",
+			"dialog-headline": "Nulstil password",
+			"dialog-text": "Indtast din emailadresse, og vi sender dig et link til at nulstille dit password med.",
+			"dialog-input-placeholder": "Indtast din emailadresse",
+			"dialog-submit-button": "Nulstil password",
+			"toast-cant-send-reset-email": "Kunne ikke sende emailen. Prøv igen senere.",
+			"toast-reset-email-sent": "Email med link til nulstil er på vej!"
+		}
+	},
+	"reset-password": {
+		"headline": "Vælg et nyt password",
+		"text-before": "Indtast det nye password, du ønsker til din konto. Det skal være mindst 6 karakterer langt.",
+		"text-after": "Dit password er blevet opdateret. Du kan nu logge ind med dit nye password.",
+		"toast-error": "Kunne ikke opdatere dit password. Reset-linket kan være udløbet – anmod om et nyt.",
+		"input-placeholder": "Nyt password...",
+		"submit-button": "Gem nyt password",
+		"link": "Gå til log ind"
 	},
 	"user-menu": {
 		"profile": "Profil",
