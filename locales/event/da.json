@@ -8,7 +8,8 @@
 	"add-person": {
 		"button-label": "Tilføj person",
 		"placeholder": "Skriv dit navn...",
-		"already-exists": "Navnet eksisterer allerede. Vælg venligst et andet."
+		"already-exists": "Navnet eksisterer allerede. Vælg venligst et andet.",
+		"max-attendees-met": "Eventens maksimale antal deltagere er nået. Du kan kun tilmelde dig hvis en af de tilmeldte personer framelder sig, eller hvis eventens ejer øger antallet."
 	},
 	"edit-dropdown": {
 		"name-placeholder": "Navn...",
