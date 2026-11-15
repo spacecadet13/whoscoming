@@ -8,7 +8,8 @@
 	"add-person": {
 		"button-label": "Add person",
 		"placeholder": "Write your name...",
-		"already-exists": "That name already is already in use! Please choose another one."
+		"already-exists": "That name already is already in use! Please choose another one.",
+		"max-attendees-met": "The maximum number of attendees has been met. You can register if someone else unregisters or if the event owner increases the limit."
 	},
 	"edit-dropdown": {
 		"name-placeholder": "Name...",
