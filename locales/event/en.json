@@ -29,10 +29,12 @@
 		"matching-person-text": "already exists, but has been inactive for a while. If this is you, you can press the switch to reactivate your profile."
 	},
 	"event-menu": {
+		"event-history": "Event history",
 		"language": "Language",
 		"light-mode": "Light mode",
 		"dark-mode": "Dark mode",
-		"create-your-own": "Create your own event"
+		"create-your-own": "Create your own event",
+		"event-history": "Event history"
 	},
 	"language": {
 		"english": "English",
