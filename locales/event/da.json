@@ -29,10 +29,12 @@
 		"matching-person-text": "eksisterer allerede, men har været inaktiv i længere tid. Hvis det er dig, kan du tilmelde dig her og genaktivere din profil."
 	},
 	"event-menu": {
+		"event-history": "Tidligere events",
 		"language": "Sprog",
 		"light-mode": "Lyst tema",
 		"dark-mode": "Mørkt tema",
-		"create-your-own": "Opret din egen event"
+		"create-your-own": "Opret din egen event",
+		"event-history": "Tidligere events"
 	},
 	"language": {
 		"english": "Engelsk",
