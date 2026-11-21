@@ -40,5 +40,18 @@
 	"language": {
 		"english": "English",
 		"danish": "Danish"
+	},
+	"scoreboard": {
+		"header": "Scoreboard", 
+		"person": "Person",
+		"activity-score": "Activity score",
+		"activity-score-tooltip": "The person's attendance over the last 6 months. 1 point is granted for every attendance. The value of the point gradually decreases weekly until worth 0 in 6 months. So a point given today is worth 1 full point, while only worth 0.5 in 3 months from now.\n\nEach week the people on the event are sorted by this score.",
+		"attended": "Attended",
+		"unregistered": "Unregistered",
+		"average-response-time": "Avg. resp. time",
+		"average-response-time-tooltip": "The average response time from the moment registrations for this week's event opens. The registration opens at midnight after the day of this week's event",
+		"current-streak": "Current streak",
+		"best-streak": "Best streak",
+		"accolades": "Accolades"
 	}
 }
