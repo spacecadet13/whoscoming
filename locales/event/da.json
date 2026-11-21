@@ -40,5 +40,19 @@
 	"language": {
 		"english": "Engelsk",
 		"danish": "Dansk"
+	},
+	"scoreboard": {
+		"header": "Scoreboard", 
+		"person": "Person",
+		"activity-score": "Aktivitets-score",
+		"activity-score-tooltip": "Personens deltagelse over de seneste 6 måneder. 1 point gives for hver deltagelse. Værdien af pointet aftager gradvist ugentligt indtil pointet er lig 0 om 6 måneder. So et point, der gives i dag, er 1 fuldt point værd, mens det kun er 0.5 om 3 måneder.\n\nAlle personer på eventen sorteres hver uge ud fra denne score",
+		"attended": "Deltagelser",
+		"unregistered": "Afmeldinger",
+		"average-response-time": "Gennemsnitlig svartid",
+		"average-response-time-tooltip": "The average response time from the moment registrations opens. The registration opens at midnight after the day of this week's event",
+		"average-response-time-tooltip": "Den gennemsnitlige svartid fra en events registrering åbner. Næste uges registrering åbner ved midnat dagen efter dene uges event.",
+		"current-streak": "Aktuel streak",
+		"best-streak": "Bedste streak",
+		"accolades": "Anerkendelser"
 	}
 }
