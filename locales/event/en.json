@@ -42,7 +42,8 @@
 		"danish": "Danish"
 	},
 	"scoreboard": {
-		"header": "Scoreboard", 
+		"header": "Scoreboard",
+		"scoreboard-tooltip": "Statistics are updated weekly the day after the event.",
 		"person": "Person",
 		"activity-score": "Activity score",
 		"activity-score-tooltip": "The person's attendance over the last 6 months. 1 point is granted for every attendance. The value of the point gradually decreases weekly until worth 0 in 6 months. So a point given today is worth 1 full point, while only worth 0.5 in 3 months from now.\n\nEach week the people on the event are sorted by this score.",
@@ -54,19 +55,16 @@
 		"current-streak": "Current streak",
 		"best-streak": "Best streak",
 		"accolades": "Accolades",
-		
 		"streak-badge-tooltip": "attendances in a row",
 		"attendance-badge-tooltip": "attendances",
 		"load-error": "Couldn't load the stats. Try again later.",
 		"not-weekly": "Stats are only collected for weekly events.",
 		"empty": "No people on this event yet.",
-		
 		"deleted-on": "This person was deleted on",
 		"recover": "Recover",
 		"delete-permanently": "Delete permanently",
 		"delete-permanently-confirm": "Are you sure you want to delete this person PERMANENTLY? The person and all their stats associated with this event will be lost.\n\nThere's no way to undo this!",
 		"cancel": "Cancel",
-		
 		"toast-restored": "is back on the list",
 		"toast-restore-failed": "Couldn't undelete the person. Please try again.",
 		"toast-name-taken-prefix": "Someone called",
