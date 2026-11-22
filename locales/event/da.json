@@ -45,14 +45,34 @@
 		"header": "Scoreboard", 
 		"person": "Person",
 		"activity-score": "Aktivitets-score",
-		"activity-score-tooltip": "Personens deltagelse over de seneste 6 måneder. 1 point gives for hver deltagelse. Værdien af pointet aftager gradvist ugentligt indtil pointet er lig 0 om 6 måneder. Så 1 point givet i dag, er kun 0.5 værd om 3 måneder.\n\nAlle personer på eventen sorteres hver uge ud fra denne score. Ved pointlighed sorteres sekundært efter gennemsnitlig svartid.",
+		"activity-score-tooltip": "Personens deltagelse over de seneste 6 måneder. 1 point gives for hver deltagelse. Værdien af pointet aftager gradvist ugentligt indtil pointet er lig 0 om 6 måneder. Så 1 point givet i dag, er kun 0,5 værd om 3 måneder.\n\nAlle personer på eventen sorteres hver uge ud fra denne score. Ved pointlighed sorteres sekundært efter svartid.",
 		"attended": "Deltagelser",
 		"unregistered": "Afmeldinger",
-		"average-response-time": "Gennemsnitlig svartid",
+		"average-response-time": "Svartid",
 		"average-response-time-tooltip": "En persons gennemsnitlige svartid de seneste 6 måneder fra en events registrering åbner. Næste uges registrering åbner ved midnat dagen efter denne uges event.",
 		"hours": "timer",
 		"current-streak": "Aktuel streak",
 		"best-streak": "Bedste streak",
-		"accolades": "Anerkendelser"
+		"accolades": "Anerkendelse",
+		
+		"streak-badge-tooltip": "deltagelser i træk",
+		"attendance-badge-tooltip": "deltagelser",
+		"load-error": "Kunne ikke loade scoreboard. Prøv igen senere.",
+		"not-weekly": "Der indsamles kun statistik for ugentlige events.",
+		"empty": "Der er ingen personer på dette event endnu.",
+		
+		"deleted-on": "Denne person blev slettet",
+		"recover": "Gendan",
+		"delete-permanently": "Slet permanent",
+		"delete-permanently-confirm": "Are you sure you want to delete this person PERMANENTLY? The person and all their stats associated with this event will be lost.\n\nThere's no way to undo this!",
+		"delete-permanently-confirm": "Er du sikker på at du vil slette denne person PERMANENT? Personen og al vedkommendes statistik for dette event vil gå tabt.\n\n Der er ingen måde at fortryde dette på!",
+		"cancel": "Fortryd",
+		
+		"toast-restored": "er tilbage på listen",
+		"toast-restore-failed": "Kunne ikke flytte personen tilbage. Prøv venligst igen.",
+		"toast-name-taken-prefix": "En person ved navn",
+		"toast-name-taken-suffix": "er allerede på listen",
+		"toast-purged": "blev slettet permanent",
+		"toast-purge-failed": "Kunne ikke slette personen. Prøv venligst igen."
 	}
 }
