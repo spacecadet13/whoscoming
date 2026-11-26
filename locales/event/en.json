@@ -34,8 +34,7 @@
 		"language": "Language",
 		"light-mode": "Light mode",
 		"dark-mode": "Dark mode",
-		"create-your-own": "Create your own event",
-		"event-history": "Event history"
+		"create-your-own": "Create your own event"
 	},
 	"language": {
 		"english": "English",
@@ -71,5 +70,24 @@
 		"toast-name-taken-suffix": "is already on the list",
 		"toast-purged": "was deleted permanently",
 		"toast-purge-failed": "Couldn't delete the person. Please try again."
+	},
+	"past-events": {
+		"header": "Past events",
+		"header-tooltip-part1": "Event stats collected since the event was created",
+		"header-tooltip-part2": "Stats are updated weekly the day after the event.\n\nPress the bars in the chart to see who attended each event.",
+		"chart-tooltip-attendees": "attendees",
+		"chart-tooltip-cancelled": "cancelled",
+		"box-took-place-header": "Took place",
+		"box-took-place-footer": "since",
+		"box-cancelled-header": "Cancelled",
+		"box-cancelled-footer": "since",
+		"box-current-streak-header": "Current streak",
+		"box-current-streak-footer": "weeks in a row",
+		"box-best-streak-header": "Best streak",
+		"box-best-streak-footer": "weeks in a row",
+		"box-most-attendees-header": "Most attendees",
+		"load-error": "Couldn't load the stats. Try reloading the page.",
+		"not-weekly": "Stats are only collected for weekly events.",
+		"empty": "No past weeks yet.\nA week is counted the day after it takes place."
 	}
 }
