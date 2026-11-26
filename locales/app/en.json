@@ -40,7 +40,8 @@
 	"user-menu": {
 		"profile": "Profile",
 		"edit-event": "Edit event",
-		"event-history": "Event history",
+		"scoreboard": "Scoreboard",
+		"past-events": "Tidligere events",
 		"language": "Language",
 		"light-mode": "Light mode",
 		"dark-mode": "Dark mode",
