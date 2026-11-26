@@ -40,7 +40,8 @@
 	"user-menu": {
 		"profile": "Profil",
 		"edit-event": "Rediger event",
-		"event-history": "Tidligere events",
+		"scoreboard": "Scoreboard",
+		"past-events": "Tidligere events",
 		"language": "Sprog",
 		"light-mode": "Lyst tema",
 		"dark-mode": "Mørkt tema",
