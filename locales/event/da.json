@@ -34,8 +34,7 @@
 		"language": "Sprog",
 		"light-mode": "Lyst tema",
 		"dark-mode": "Mørkt tema",
-		"create-your-own": "Opret din egen event",
-		"event-history": "Tidligere events"
+		"create-your-own": "Opret din egen event"
 	},
 	"language": {
 		"english": "Engelsk",
@@ -72,5 +71,24 @@
 		"toast-name-taken-suffix": "er allerede på listen",
 		"toast-purged": "blev slettet permanent",
 		"toast-purge-failed": "Kunne ikke slette personen. Prøv venligst igen."
+	},
+	"past-events": {
+		"header": "Tidligere events",
+		"header-tooltip-part1": "Statistik for eventen siden den blev oprettet d.",
+		"header-tooltip-part2": "Tallene opdateres ugentligt dagen efter eventen.\n\nTryk på søjlerne for at se hvem der deltog i den pågældende event.",
+		"chart-tooltip-attendees": "deltagere",
+		"chart-tooltip-cancelled": "aflyst",
+		"box-took-place-header": "Afholdt",
+		"box-took-place-footer": "siden",
+		"box-cancelled-header": "Aflyst",
+		"box-cancelled-footer": "siden",
+		"box-current-streak-header": "Aktuel streak",
+		"box-current-streak-footer": "uger i træk",
+		"box-best-streak-header": "Bedste streak",
+		"box-best-streak-footer": "uger i træk",
+		"box-most-attendees-header": "Flest deltagere",
+		"load-error": "Kunne ikke loade tidligere events. Prøv at genindlæse siden.",
+		"not-weekly": "Statistik samles kun ind for ugentlige events.",
+		"empty": "Der er ingen tidligere events endnu.\nEn event registreres dagen efter den har fundet sted."
 	}
 }
